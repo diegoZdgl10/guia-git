@@ -31,6 +31,3 @@ Prepárate para embarcarte en un viaje hacia un flujo de trabajo más eficiente 
 - [Configurando Git y GitHub en Mac y Linux.md](https://gist.github.com/almapase/5ded8e3503f7ef7f01648cfaa7215eb3)
 - [3.2 Ramificaciones en Git - Procedimientos Básicos para Ramificar y Fusionar](https://git-scm.com/book/es/v2/Ramificaciones-en-Git-Procedimientos-B%C3%A1sicos-para-Ramificar-y-Fusionar)
 - [The Basics of GitHub](https://github.com/education/github-starter-course)
-
-https://gitlab.com/Redes-Ciencias-UNAM/redes-ciencias-unam.gitlab.io/-/blob/master/docs/laboratorio/practica-9/index.md?plain=1
-https://gitlab.com/diegodgl10/tareas-redes/-/blob/examen-kubernetes/docs/practicas/practica-9/Equipo-DAE-RMDE-ZCDA-NVR-VMJM/README.md?plain=0
