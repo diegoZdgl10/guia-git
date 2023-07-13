@@ -1,9 +1,3 @@
----
-title: Creando nuestro primer proyecto con Git y GitHub
-authors:
-- Zamora Cruz Diego Arturo
----
-
 # Creando nuestro primer proyecto con Git y GitHub
 
 --------------------------------------------------------------------------------

@@ -1,9 +1,3 @@
----
-title: Comandos básicos de trabajo
-authors:
-- Zamora Cruz Diego Arturo
----
-
 # Comandos básicos de trabajo
 
 --------------------------------------------------------------------------------
@@ -20,7 +14,7 @@ El comando `git init` se utiliza para inicializar un nuevo repositorio en un dir
 Para iniciar un proyecto en Git, nos colocamos en nuestra carpeta y usamos el comando `git init`
 
 ```
-~ git init
+~/proyecto/ git init
 ```
 
 
@@ -41,7 +35,7 @@ Una vez estemos en nuestra carpeta ejecutaremos el comando `git clone`
 Usualmente, cuando estemos trabajando en equipo, otros miembros del equipo irán actualizando el proyecto, para depurar errores o aumentar funcionalidades, por lo que si deseamos actualizar nuestra copia local podemos de hacerlo con el comando `pull`. El comando `pull` se utiliza para obtener los últimos cambios de un repositorio remoto y fusionarlos con tu copia local. Básicamente, actualiza tu repositorio local con los cambios más recientes realizados por otros colaboradores.
 
 ```
-~ git pull origin rama-remota
+~/proyecto/ git pull origin rama-remota
 # PD: es el nombre del repositorio remoto del cual deseas obtener los cambios y "mi-rama" es el nombre de la rama remota que deseas fusionar en tu rama local. 
 ```
 
@@ -55,7 +49,7 @@ Una rama (branch) en Git es una línea independiente de desarrollo que permite t
 Para ver las ramas locales que posee usamos el comando
 
 ```
-~ git branch
+~/proyecto/ git branch
 * master
 # PD: por defecto únicamente tendrás la rama máster
 ```
@@ -63,15 +57,15 @@ Para ver las ramas locales que posee usamos el comando
 Para crear una nueva rama realizamos lo siguiente
 
 ```
-~ git branch testeo # creamos una rama con el nombre testeo
+~/proyecto/ git branch testeo # creamos una rama con el nombre testeo
 ```
 
 Para mudarnos a la nueva rama lo hacemos de la siguiente forma
 
 ```
-~ git checkout testeo
+~/proyecto/ git checkout testeo
 Cambiado a rama 'testeo'
-~ git branch
+~/proyecto/ git branch
   master
 * testeo # verificamos que hemos cambiado a la rama testeo
 ```
@@ -90,13 +84,13 @@ Una vez hayas llegado a un punto en el cual deseas guardar tus avances, debes de
 Primero debemos de indicar que archivos queremos agregar al commit.
 
 ```
-~ git add files/ img/
+~/proyecto/ git add files/ img/
 ```
 
 Posteriormente, realizamos el commit agregando un mensaje
 
 ```
-~ git commit -m 'agregando imagenes para el archivo files/Install-Config.md'
+~/proyecto/ git commit -m 'agregando imagenes para el archivo files/Install-Config.md'
 ```
 
 
@@ -107,7 +101,7 @@ El comando `merge` se utiliza para combinar los cambios de una rama en otra. Por
 Para esto primero nos colocamos en la rama sobre la que se aplicara la fusión y posteriormente hacemos lo siguiente
 
 ```
-~ git merge produccion # hacemos la fusion con la rama llamada produccion
+~/proyecto/ git merge produccion # hacemos la fusion con la rama llamada produccion
 ```
 
 
@@ -116,7 +110,7 @@ Para esto primero nos colocamos en la rama sobre la que se aplicara la fusión y
 El comando `push` se utiliza para enviar los cambios locales a un repositorio remoto. Después de realizar modificaciones en tu código local, puedes usar `push` para subir tus cambios al repositorio compartido, permitiendo que otros colaboradores vean y accedan a tus actualizaciones. El comando `push` sincroniza tu rama local con la rama correspondiente en el repositorio remoto.
 
 ```
-~ git push -u origin master # estamos empujando los cambios a la rama remota master
+~/proyecto/ git push -u origin master # estamos empujando los cambios a la rama remota master
 ```
 
 <!--

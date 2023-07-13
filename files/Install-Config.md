@@ -1,9 +1,3 @@
----
-title: Instalación y Configurando Git y GitHub en Mac y Linux
-authors:
-- Zamora Cruz Diego Arturo
----
-
 # Instalación y Configurando Git y GitHub en Mac y Linux
 
 --------------------------------------------------------------------------------
