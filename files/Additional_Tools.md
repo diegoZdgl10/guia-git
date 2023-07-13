@@ -24,7 +24,7 @@ Estas son solo algunas de las alternativas populares a GitHub. Cada una tiene su
 
 ## Interfaces de usuarios (GUI) para Git
 
-En ocasiones al estar trabajando con multiples usuarios y/o con multiples ramas, sera dificil recordar que usuario hizo que comidificacion y como estan conectadas todas las ramas. Por lo que poseer herramientas para una facil visualizacion puede ayudar mucho, tanto si estas empezando a aprender a usar Git como si ya tienes una gran destreza al utilizarlos. Existen diferentes opciones, algunas de ellas las presentamos a continuacion.
+En ocasiones, al estar trabajando con varios usuarios y/o con múltiples ramas, será difícil recordar que usuario hizo que modificación y como están conectadas todas las ramas. Por lo que poseer herramientas para una fácil visualización puede ayudar mucho, tanto si estás empezando a aprender a usar Git como si ya tienes una gran destreza al utilizarlos. Existen diferentes opciones, algunas de ellas las presentamos a continuación.
 
 - [GitKraken](https://www.gitkraken.com/): GitKraken es una herramienta de interfaz gráfica para Git que proporciona una experiencia visual para trabajar con repositorios Git. Ofrece una amplia gama de características, como la visualización del historial de commits, la administración de ramas, la resolución de conflictos y la integración con plataformas de alojamiento como GitHub y Bitbucket. Es de las mas completas y populares peeo quiza para alguien sin mucha experiencia pueda resultar compleja.
 
