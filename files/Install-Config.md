@@ -196,7 +196,7 @@ Si el resultado fue exitoso obtendrán un resultado parecido al siguiente
 
 --------------------------------------------------------------------------------
 
-|                 ⇦           |        ⌂     |                  ⇨            |
+|                 ⇍           |        ⌂     |                  ⇨            |
 |:----------------------------|:------------:|------------------------------:|
 | [Página anterior][anterior] | [Menu][menu] | [Página siguiente][siguiente] |
 
