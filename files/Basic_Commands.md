@@ -149,7 +149,7 @@ En nuestro de repositorio en GitHub, en la pestaña *Pull Request*, podremos cre
 
 |                 ⇦           |        ⌂     |                  ⇨            |
 |:----------------------------|:------------:|------------------------------:|
-| [Página anterior][anterior] | [Menu](menu) | [Página siguiente][siguiente] |
+| [Página anterior][anterior] | [Menu][menu] | [Página siguiente][siguiente] |
 
 
 [anterior]: ../First_Proyect.md

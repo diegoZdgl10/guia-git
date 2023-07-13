@@ -57,10 +57,11 @@ El uso de "pre-commit" permite automatizar estas tareas y garantizar que se siga
 
 --------------------------------------------------------------------------------
 
-|                 ⇦           |        ⌂     |         ⇏        |
-|:----------------------------|:------------:|-----------------:|
-| [Página anterior][anterior] | [Menu](menu) | Página siguiente |
+|                 ⇦           |        ⌂     |                  ⇏            |
+|:----------------------------|:------------:|------------------------------:|
+| [Página anterior][anterior] | [Menu][menu] | [Página siguiente][siguiente] |
 
 
 [anterior]: ../Basic_Commands.md
 [menu]: ../README.md
+[siguiente]: ../README.md
