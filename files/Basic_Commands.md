@@ -113,9 +113,34 @@ El comando `push` se utiliza para enviar los cambios locales a un repositorio re
 ~/proyecto/ git push -u origin master # estamos empujando los cambios a la rama remota master
 ```
 
-<!--
-Por agregar
+
+--------------------------------------------------------------------------------
+
 ## Forks
 
+Un "fork" es una copia independiente de un repositorio existente. Al hacer un fork de un repositorio, se crea una bifurcación o ramificación separada del proyecto original, lo que permite a los usuarios realizar cambios y modificaciones en su propia versión del proyecto sin afectar el repositorio original.
+
+Cuando se hace un fork, se crea una copia completa del repositorio original, incluyendo todo el historial de commits, ramas y archivos. Esta copia se guarda en una nueva ubicación, generalmente en una cuenta personal del usuario o en otro repositorio remoto. A partir de ese momento, el usuario puede trabajar en su versión independiente del proyecto, realizar cambios, agregar nuevas funcionalidades, solucionar problemas o realizar cualquier modificación que desee.
+
+Permiten a los usuarios colaborar y contribuir a proyectos de código abierto de forma segura y sin afectar directamente el repositorio original. Los cambios realizados en el fork se pueden enviar de vuelta al repositorio original a través de un proceso llamado "pull request" (solicitud de extracción), donde el propietario del repositorio original puede revisar y decidir si incorporar esos cambios al proyecto principal.
+
+Para crear un fork desde GitHub únicamente nos debemos dar clic sobre el botón con la etiqueta *Fork* e inmediatamente
+
+![](img/../../img/Basic_Commands/basic_commands_01.png)
+
+A continuación, nos aparecerá un formulario simular al que tenemos al crear un nuevo repositorio, y al darle crear, tendremos nuestra propia copia del repositorio original.
+
+![](img/../../img/Basic_Commands/basic_commands_02.png)
+
+
 ## Pull requests
--->
+
+Un pull request (solicitud de extracción) es un mecanismo utilizado en sistemas de control de versiones como Git para solicitar que los cambios realizados en una rama de un repositorio sean revisados e incorporados en otra rama, generalmente en el repositorio principal o "upstream".
+
+Cuando trabajas en un repositorio remoto o en un fork de un repositorio, puedes hacer cambios en una rama y luego enviar un pull request al repositorio original para proponer la incorporación de esos cambios. Esto permite a otros colaboradores revisar los cambios, discutirlos, realizar comentarios y aprobarlos antes de que se fusionen en la rama de destino.
+
+El uso de pull requests es una práctica común en proyectos de desarrollo colaborativo, ya que facilita la revisión y la colaboración en los cambios propuestos antes de su integración definitiva. Permite mantener un control de calidad y asegura que los cambios sean revisados y discutidos por otros colaboradores antes de ser incorporados en el proyecto principal.
+
+En nuestro de repositorio en GitHub, en la pestaña *Pull Request*, podremos crear nuevas solicitudes, ya sea entre ramas de nuestro repositorio o si se trata de un fork, hacer solicitudes al repositorio original. También podremos administrar las solicitudes que tengamos, revisando el código, haciendo comentarios, etc.
+
+![](img/../../img/Basic_Commands/basic_commands_03.png)
