@@ -54,3 +54,13 @@ Las funciones y usos de "pre-commit" pueden variar según la configuración y la
 5. Existencia de archivos: En muchas ocasiones, dentro de un archivo hacemos referencia a otros, por ejemplo, dentro de un README colocamos una referencia a una imagen, "pre-commit" permite verificar si dicho archivo existe, de esta forma se mantienen ciertos estándares de calidad.
 
 El uso de "pre-commit" permite automatizar estas tareas y garantizar que se sigan las mejores prácticas y estándares establecidos por el equipo de desarrollo en cada commit. Ayuda a mantener la calidad del código, reducir errores y mejorar la eficiencia del proceso de desarrollo.
+
+--------------------------------------------------------------------------------
+
+|                 ⇦           |        ⌂     |         ⇏        |
+|:----------------------------|:------------:|-----------------:|
+| [Página anterior][anterior] | [Menu](menu) | Página siguiente |
+
+
+[anterior]: ../Basic_Commands.md
+[menu]: ../README.md

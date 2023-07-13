@@ -57,3 +57,14 @@ Branch master set up to track remote branch master from origin.
 Con esto hemos completado nuestro objetivo de configurar Git con GitHub.
 
 ![](img/../../img/FirstProyect/first_proyect_04.png)
+
+--------------------------------------------------------------------------------
+
+|                 ⇦           |        ⌂      |                  ⇨            |
+|:----------------------------|:-------------:|------------------------------:|
+| [Página anterior][anterior] | [Menu][menu]  | [Página siguiente][siguiente] |
+
+
+[anterior]: ./Install-Config.md
+[menu]: ../README.md
+[siguiente]: ./Basic_Commands.md

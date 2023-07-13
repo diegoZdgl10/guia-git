@@ -25,7 +25,6 @@ Prepárate para embarcarte en un viaje hacia un flujo de trabajo más eficiente 
 
 --------------------------------------------------------------------------------
 
-
 ### Material de consulta
 
 - [Configurando Git y GitHub en Mac y Linux.md](https://gist.github.com/almapase/5ded8e3503f7ef7f01648cfaa7215eb3)

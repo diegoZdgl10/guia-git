@@ -193,3 +193,14 @@ Llego el momento de pegar nuestra llave publica, lo hacemos según la imagen de 
 Si el resultado fue exitoso obtendrán un resultado parecido al siguiente
 
 ![](img/../../img/Install-Config/install-config_07.png)
+
+--------------------------------------------------------------------------------
+
+|                 ⇦           |        ⌂     |                  ⇨            |
+|:----------------------------|:------------:|------------------------------:|
+| [Página anterior][anterior] | [Menu](menu) | [Página siguiente][siguiente] |
+
+
+[anterior]: ../README.md
+[menu]: ../README.md
+[siguiente]: ./First_Proyect.md

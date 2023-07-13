@@ -144,3 +144,14 @@ El uso de pull requests es una práctica común en proyectos de desarrollo colab
 En nuestro de repositorio en GitHub, en la pestaña *Pull Request*, podremos crear nuevas solicitudes, ya sea entre ramas de nuestro repositorio o si se trata de un fork, hacer solicitudes al repositorio original. También podremos administrar las solicitudes que tengamos, revisando el código, haciendo comentarios, etc.
 
 ![](img/../../img/Basic_Commands/basic_commands_03.png)
+
+--------------------------------------------------------------------------------
+
+|                 ⇦           |        ⌂     |                  ⇨            |
+|:----------------------------|:------------:|------------------------------:|
+| [Página anterior][anterior] | [Menu](menu) | [Página siguiente][siguiente] |
+
+
+[anterior]: ../First_Proyect.md
+[menu]: ../README.md
+[siguiente]: ./Additional_Tools.md
